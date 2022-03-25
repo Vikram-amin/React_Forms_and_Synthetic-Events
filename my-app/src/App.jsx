@@ -1,10 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Empolyes from './Components/Empolyes';
+
 
 function App() {
   return (
     <div className="App">
-     <h1>hi</h1>
+     <h1>Employes Data</h1>
+     <Empolyes/>
     </div>
   );
 }

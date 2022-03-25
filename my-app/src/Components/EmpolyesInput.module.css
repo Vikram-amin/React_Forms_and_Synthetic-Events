@@ -1,0 +1,28 @@
+.form{
+    background-color: palegreen;
+    width: 300px;
+    margin: auto;
+    padding: 40px;
+   
+}
+
+.form input, .form select{
+    width: 200px;
+    height: 25px;
+    margin: 5px;
+    position: absolute;
+    left: 90px;
+    top: -10px;
+}
+
+.form select{
+  height: 32px;
+}
+
+.form label{
+      display: flex;
+      flex-direction: row;
+      position: relative;
+}
+
+

@@ -1,0 +1,85 @@
+{
+  "EmployesData": [
+    {
+      "name": "fdg",
+      "age": "435",
+      "address": "erg",
+      "department": "Marketing",
+      "salary": "43",
+      "maritalState": true,
+      "id": 1
+    },
+    {
+      "name": "fdg",
+      "age": "435",
+      "address": "erg",
+      "department": "Marketing",
+      "salary": "43",
+      "maritalState": true,
+      "id": 2
+    },
+    {
+      "name": "fdg",
+      "age": "435",
+      "address": "erg",
+      "department": "Marketing",
+      "salary": "43",
+      "maritalState": true,
+      "id": 3
+    },
+    {
+      "name": "fdg",
+      "age": "435",
+      "address": "erg",
+      "department": "Marketing",
+      "salary": "43",
+      "maritalState": true,
+      "id": 4
+    },
+    {
+      "name": "fdg",
+      "age": "435",
+      "address": "erg",
+      "department": "Marketing",
+      "salary": "43",
+      "maritalState": true,
+      "id": 5
+    },
+    {
+      "name": "qwe",
+      "age": "23",
+      "address": "erwe",
+      "department": "Marketing",
+      "salary": "123",
+      "maritalState": true,
+      "id": 6
+    },
+    {
+      "name": "vikram",
+      "age": "24",
+      "address": "udupi",
+      "department": "Maintanence",
+      "salary": "100094",
+      "maritalState": false,
+      "id": 7
+    },
+    {
+      "name": "vikram",
+      "age": "23",
+      "address": "udupi",
+      "department": "HR",
+      "salary": "222",
+      "maritalState": true,
+      "id": 8
+    },
+    {
+      "name": "shrya",
+      "age": "19",
+      "address": "mumbai",
+      "department": "Finance",
+      "salary": "123",
+      "maritalState": false,
+      "id": 9
+    }
+  ]
+}
